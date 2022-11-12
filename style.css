@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(235, 228, 189);
+   /* background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb474a69-cf12-4a80-9735-703239dca1fd/dc0c07g-cabdc08e-9326-49ba-9d2e-dd3634bb23af.jpg/v1/fill/w_1122,h_712,q_70,strp/naruto_online___konoha_battle_background_by_danteg9b_dc0c07g-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQ1IiwicGF0aCI6IlwvZlwvZWI0NzRhNjktY2YxMi00YTgwLTk3MzUtNzAzMjM5ZGNhMWZkXC9kYzBjMDdnLWNhYmRjMDhlLTkzMjYtNDliYS05ZDJlLWRkMzYzNGJiMjNhZi5qcGciLCJ3aWR0aCI6Ijw9MTMzMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.58scahMmGwgB09fBR6CzbfLHJmw6p_bfHdaUSI9wbac);
+*/
+}
+#navigation{
+    /*background-color: rgb(50, 186, 186);*/
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    position: relative;
+}
+div{
+    padding: 10px;
+}
+img{
+    height: 50px;
+}
+#div1{
+    margin-right: auto;
+    padding-top: 0%;
+
+}
+#div2,#div3,#div4:hover{
+    background-color: crimson;
+}
+
